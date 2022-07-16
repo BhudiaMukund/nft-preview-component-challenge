@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BhudiaMukund/nft-preview-component-challenge](https://github.com/BhudiaMukund/nft-preview-component-challenge)
+- Live Site URL: [https://nft-preview-component-challenge.netlify.app/](https://nft-preview-component-challenge.netlify.app/)
 
 ## My process
 
